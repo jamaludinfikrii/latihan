@@ -1,0 +1,29 @@
+.merah{
+    color: red;
+}
+
+.button{
+    background-color: aqua;
+    height: 30px;
+    
+}
+
+div{
+    border: 1px solid red
+}
+.satu{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.dua {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 100px;
+}
+
+/* Selector */
+
+/* Ada tiga Selector */
+/* CLASS */
+/* ID */
+/* TAG */

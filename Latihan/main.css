@@ -1,0 +1,18 @@
+div{
+    border: 1px solid red
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px
+}
+
+.menu-items{
+    display: flex
+}
+.menu-items p{
+    margin-right: 75px;
+    font-size: 18px;
+}
